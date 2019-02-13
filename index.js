@@ -244,4 +244,4 @@ bot.on("message", async message => {
         console.log(err);
     });
 
-bot.login(botconfig.token);
+bot.login(token);
